@@ -81,7 +81,7 @@ class CalculatorTest extends PHPUnit_Framework_TestCase {
      */
     public function testAdd5() {
         $this->assertEquals(
-                3
+                4
                 , $this->object->add(1, 2)
         );
     }

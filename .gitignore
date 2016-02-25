@@ -27,6 +27,7 @@ phpunit.phar
 /phpunit.xml
 
 # Elastic Beanstalk Files
-.elasticbeanstalk/*
+.elasticbeanstalk/*
+.elasticbeanstalk/*.*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml

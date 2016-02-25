@@ -28,6 +28,6 @@ phpunit.phar
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
-.elasticbeanstalk/*.*1
+.elasticbeanstalk/*.*11
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
